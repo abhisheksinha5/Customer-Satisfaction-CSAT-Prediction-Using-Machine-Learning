@@ -338,7 +338,7 @@ Customer-Satisfaction-Prediction/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Satisfaction-Prediction.git
+git clone https://github.com/abhisheksinha5/Customer-Satisfaction-CSAT-Prediction-Using-Machine-Learning.git
 ```
 
 ### Install Dependencies
